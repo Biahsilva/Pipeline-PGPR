@@ -1,0 +1,15 @@
+Informações sobre a Interseção entre os Genomas HNA3 e HNA3-PGPR: 
+Quantidade de Genes: 29
+ywkB, ysnE, trpF, pksS, trpB, bdhA, flgM, msmX, cysE, wecB, luxS, yhcX, slrR, sinR, acuC, ilvB, trpE, hfq, alsR, trpD, dhaS, csrA, crr, iolU, speE, tarA/tagA, trpC, rpoN, trpA, 
+
+Informações sobre a Interseção entre os Genomas LABIM22 e HNA3-PGPR: 
+Quantidade de Genes: 29
+ywkB, ysnE, trpF, pksS, trpB, bdhA, flgM, msmX, cysE, wecB, luxS, yhcX, slrR, sinR, acuC, ilvB, trpE, hfq, alsR, trpD, dhaS, csrA, crr, iolU, speE, tarA/tagA, trpC, rpoN, trpA, 
+
+Informações sobre a Interseção entre os Genomas LABIM40 e HNA3-PGPR: 
+Quantidade de Genes: 29
+ywkB, ysnE, trpF, pksS, trpB, bdhA, flgM, msmX, cysE, wecB, luxS, yhcX, slrR, sinR, acuC, ilvB, trpE, hfq, alsR, trpD, dhaS, csrA, crr, iolU, speE, tarA/tagA, trpC, rpoN, trpA, 
+
+Informações sobre a Interseção entre os Genomas LABIM44 e HNA3-PGPR: 
+Quantidade de Genes: 29
+ywkB, ysnE, trpF, pksS, trpB, bdhA, flgM, msmX, cysE, wecB, luxS, yhcX, slrR, sinR, acuC, ilvB, trpE, hfq, alsR, trpD, dhaS, csrA, crr, iolU, speE, tarA/tagA, trpC, rpoN, trpA, 
