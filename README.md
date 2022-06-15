@@ -23,7 +23,7 @@ Para compilar o script 2, recomenda-se utilizar um cluster. Nesta pesquisa, foi 
 ### Fluxograma do Pipeline 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/102994978/173716159-e2d8db4d-7857-4bdd-a065-d0b5479a4ce2.png" width="600px" /> 
+<img src="https://user-images.githubusercontent.com/102994978/173956756-549af94a-af76-4c41-9f99-bbabe8d9c354.png" width="600px" /> 
 </div>
 
      
