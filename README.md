@@ -7,7 +7,7 @@
 3. blastp.py
 4. comparacao.py
 
-Para compilar o script 2, recomenda-se utilizar-se de um cluster e, para esta pesquisa, foi utilizado os equipamentos do Laboratório Multiusuários CCCT-CP, que utiliza o software SLURM para o gerenciamento de filas de trabalho. Utilizamos o script shell "script_python_quali.sh" para compilar o script 2.
+Para compilar o script 2, recomenda-se utilizar um cluster. Nesta pesquisa, foi utilizado os equipamentos do Laboratório Multiusuários CCCT-CP, que utiliza o software SLURM para o gerenciamento de filas de trabalho. Utilizamos o script shell "script_python_quali.sh" para compilar o script 2.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
